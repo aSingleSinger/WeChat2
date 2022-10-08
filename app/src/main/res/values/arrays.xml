@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  联系人信息  -->
+    <string-array name="contact_name">
+        <item>寂寞的冰可乐</item>
+        <item>孤独的羊肉串</item>
+    </string-array>
+    <string-array name="contact_head_portrait">
+        <item>@drawable/girl</item>
+        <item>@drawable/girl2</item>
+    </string-array>
+    <string-array name="contact_last_time">
+        <item>12:03</item>
+        <item>周五</item>
+    </string-array>
+    <string-array name="contact_last_content">
+        <item>在</item>
+        <item>吃饭了吗</item>
+    </string-array>
+
+<!--  聊天信息  -->
+    <string-array name="chit_content_with_girl">
+        <item>在</item>
+        <item>在</item>
+    </string-array>
+    <string-array name="chit_time_with_girl">
+        <item>12.01</item>
+        <item>12.06</item>
+    </string-array>
+    <string-array name="chit_is_receiver_with_girl">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+
+    <string-array name="chit_content_with_girl2">
+        <item>在</item>
+        <item>吃饭了吗</item>
+    </string-array>
+    <string-array name="chit_time_with_girl2">
+        <item>周三</item>
+        <item>周五</item>
+    </string-array>
+    <string-array name="chit_is_receiver_with_girl2">
+        <item>false</item>
+        <item>true</item>
+    </string-array>
+</resources>
